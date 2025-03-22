@@ -1,0 +1,4 @@
+{
+    "retryIntervalMinutes": 3,
+    "maxRetries": 3
+  }
